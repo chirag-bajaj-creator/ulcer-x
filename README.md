@@ -132,12 +132,6 @@ GAP → Dense layers → Softmax output (Grades 0–5)
   <li>TensorFlow and Keras Teams</li>
 </ul>
 
-<h2>👥 Authors</h2>
-<ul>
-  <li><strong>[Author 1]</strong> – Add your LinkedIn or ORCID</li>
-  <li><strong>[Author 2]</strong></li>
-  <li><strong>[Author 3]</strong></li>
-</ul>
 
 <h2>⭐ Show Support</h2>
 <p>If you found this project helpful, give it a ⭐ and share it!</p>
