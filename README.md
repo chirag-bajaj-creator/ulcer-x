@@ -1,20 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Ulcer X - README</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
-    h1, h2, h3 { color: #003366; }
-    code { background: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
-    table { border-collapse: collapse; width: 80%; }
-    th, td { border: 1px solid #ccc; padding: 10px; text-align: center; }
-    th { background-color: #f2f2f2; }
-    .badge { display: inline-block; padding: 4px 10px; margin-right: 5px; border-radius: 3px; color: #fff; font-size: 12px; }
-    .blue { background-color: #007bff; }
-    .green { background-color: #28a745; }
-    .yellow { background-color: #ffc107; color: #000; }
-    .highlight { background: #e6f7ff; padding: 8px; border-left: 4px solid #007bff; margin-bottom: 20px; }
-  </style>
+  
 </head>
 <body>
 
